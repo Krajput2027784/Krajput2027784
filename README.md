@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Khushi%20Tanwar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Python%20Enthusiast%20%7C%20B.Tech%20CSE%20%40%20BIT%20Merrut&descSize=16&descAlignY=55&descColor=a5b4fc"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Khushi%20Rajput&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Python%20Enthusiast%20%7C%20B.Tech%20CSE%20%40%20BIT%20Merrut&descSize=16&descAlignY=55&descColor=a5b4fc"/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
@@ -76,18 +76,18 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="50%" align="center">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=KhushiTanwar1720&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=818cf8"/>
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Krajput2027784&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=818cf8"/>
     </td>
     <td width="50%" align="center">
-      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=KhushiTanwar1720&theme=tokyonight&hide_border=true&background=0d1117&ring=818cf8&fire=f472b6&currStreakLabel=818cf8"/>
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Krajput2027784&theme=tokyonight&hide_border=true&background=0d1117&ring=818cf8&fire=f472b6&currStreakLabel=818cf8"/>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhushiTanwar1720&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8"/>
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krajput2027784&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8"/>
     </td>
     <td width="50%" align="center">
-      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KhushiTanwar1720&theme=tokyo-night&bg_color=0d1117&color=818cf8&line=6366f1&point=a5b4fc&hide_border=true"/>
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Krajput2027784&theme=tokyo-night&bg_color=0d1117&color=818cf8&line=6366f1&point=a5b4fc&hide_border=true"/>
     </td>
   </tr>
 </table>
