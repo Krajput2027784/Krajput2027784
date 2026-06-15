@@ -16,7 +16,7 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://www.linkedin.com/in/khushi-tanwar/">
+      <a href="https://www.linkedin.com/in/khushi-rajput-cse">
         <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40"/>
       </a>
     </td>
@@ -26,7 +26,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="mailto:khushitanwar.kr3218072@gmail.com">
+      <a href="mailto:Krajput2027784.rajpootkhushi980@gmail.com">
         <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40"/>
       </a>
     </td>
@@ -47,16 +47,16 @@
 
 ## 🧑‍💻 About Me
 
-> _"I don't just follow tutorials — I build real things, break them, and figure out why."_
+> "Passionate about learning, building, and solving real-world problems through code."
 
-- 🎓 Pursuing **B.Tech in Computer Science** at **BIT, Merrut**
-- 🎨 **Frontend-focused** developer — I turn ideas into clean, responsive, and accessible UIs
-- ⚡ Building with **React**, **Tailwind CSS**, **JavaScript**, and **C++** as my go-to stack
-- 🗄️ Comfortable connecting frontends to data with **MongoDB** & **MySQL**
-- ☁️ Familiar with **Git workflows**, **Linux**, and deploying on **Azure**
-- 🚀 Currently exploring: **full-stack patterns**, **system design fundamentals**, and **open source contribution**
-- 🤝 Open to: **internships**, **collaborative projects**, and **hackathons**
-
+- 🎓 Pursuing **B.Tech in Computer Science**
+- 🐍 Learning and building projects with **Python**
+- 💻 Interested in **Backend Development** and Software Engineering
+- 🌱 Currently exploring **Data Structures & Algorithms**, **Databases**, and **Web Development**
+- 🛠️ Familiar with **Python, C, C++, MySQL, Git, and GitHub**
+- 🚀 Working on improving problem-solving and coding skills
+- 📚 Open to **internships**, **learning opportunities**, and **collaborative projects**
+- 🎯 Goal: Become a skilled **Backend Developer**
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
 
 ## 🛠️ Tech Stack
