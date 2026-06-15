@@ -114,7 +114,7 @@
 
 I'm always open to interesting conversations, collaboration, and new opportunities.
 
-**Reach me at:** [khushitanwar.kr3218072@gmail.com](mailto:khushitanwar.kr3218072@gmail.com) · [LinkedIn](https://www.linkedin.com/in/khushi-tanwar-1720/) 
+**Reach me at:** [Krajput2027784.rajpootkhushi980@gmail.com](mailto:khushitanwar.kr3218072@gmail.com) · [LinkedIn](https://www.linkedin.com/in/khushi-tanwar-1720/) 
 
 <br/>
 
