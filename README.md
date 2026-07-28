@@ -47,28 +47,57 @@
 
 ## 🧑‍💻 About Me
 
+> ## 🧑‍💻 About Me
+
 > "Passionate about learning, building, and solving real-world problems through code."
 
 - 🎓 Pursuing **B.Tech in Computer Science**
 - 🐍 Learning and building projects with **Python**
 - 💻 Interested in **Backend Development** and Software Engineering
-- 🌱 Currently exploring **Data Structures & Algorithms**, **Databases**, and **Web Development**
-- 🛠️ Familiar with **Python, C, C++, MySQL, Git, and GitHub**
+- 🌱 Currently learning **Java**, **HTML**, **Data Structures & Algorithms**, **Databases**, and **Web Development**
+- 🛠️ Familiar with **Python, HTML, CSS, C, C++, MySQL, Git, and GitHub**
 - 🚀 Working on improving problem-solving and coding skills
 - 📚 Open to **internships**, **learning opportunities**, and **collaborative projects**
 - 🎯 Goal: Become a skilled **Backend Developer**
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
 
 ## 🛠️ Tech Stack
 
 <div align="center">
-[![Languages](https://skillicons.dev/icons?i=python,c)](https://skillicons.dev)
-[![Tools](https://skillicons.dev/icons?i=vscode,git,github,linux)](https://skillicons.dev)
+
+### 💻 Languages
+[![Languages](https://skillicons.dev/icons?i=python,html,css,c,cpp)](https://skillicons.dev)
+
+<br>
+
+### 🌱 Currently Learning
+[![Learning](https://skillicons.dev/icons?i=java,html)](https://skillicons.dev)
+
+<br>
+
+### 🧰 Tools & Technologies
+[![Tools](https://skillicons.dev/icons?i=vscode,git,github,mysql,linux)](https://skillicons.dev)
 
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
+### 💻 Languages
+[![Languages](https://skillicons.dev/icons?i=python,html,css,c,cpp)](https://skillicons.dev)
 
+<br>
+
+### 🌱 Currently Learning
+[![Learning](https://skillicons.dev/icons?i=java,html)](https://skillicons.dev)
+
+<br>
+
+### 🧰 Tools & Technologies
+[![Tools](https://skillicons.dev/icons?i=vscode,git,github,mysql,linux)](https://skillicons.dev)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
 ## 📊 GitHub Analytics
 
 <div align="center">
