@@ -95,22 +95,6 @@
 
 </div>
 
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krajput2027784&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
-
-</td>
-
-<td align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Krajput2027784&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FFFFFF" />
-
-</td>
-</tr>
 </table>
 
 </div>
