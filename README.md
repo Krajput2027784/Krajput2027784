@@ -80,7 +80,7 @@
 
 ### ⚙️ Tools & Technologies
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github theme=dark"/>
+<img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark"/>
 
 </div>
 
