@@ -82,20 +82,18 @@
 ![Chrome](https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 ## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Krajput2027784&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krajput2027784&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+</p>
 
-<table>
-<tr>
-<td align="center">
+<p align="center">
+  <img height="180em" src="https://streak-stats.demolab.com?user=Krajput2027784&theme=tokyonight&hide_border=true"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Krajput2027784&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-
-</td>
-
-<td align="center">
-
-<img src="https://streak-stats.demolab.com?user=Krajput2027784&theme=tokyonight&hide_border=true" height="180"/>
-
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Krajput2027784&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+</p>
 </td>
 </tr>
 
