@@ -62,18 +62,29 @@
 
 ## 🚀 Tech Stack (Backend Developer)
 
-## 💻 Languages
+## 🛠️ Tech Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<div align="center">
 
-## 📚 Currently Learning
+### 🚀 Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,html,css,c,cpp&theme=dark"/>
 
+<br><br>
+
+### 📚 Currently Learning
+
+<img src="https://skillicons.dev/icons?i=java,html&theme=dark"/>
+
+<br><br>
+
+### ⚙️ Tools & Technologies
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,mysql,linux&theme=dark"/>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
 **Tools I'm using while learning:**
 
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
