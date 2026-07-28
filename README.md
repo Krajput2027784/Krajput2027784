@@ -89,19 +89,30 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Krajput2027784&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krajput2027784&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-<img height="170em" src="https://streak-stats.demolab.com?user=Krajput2027784&theme=tokyonight&hide_border=true"/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Krajput2027784&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="50%" align="center">
+      <img width="100%" src="https://stats-github-readme.vercel.app/api?username=Krajput2027784&show_icons=true&theme=tokyonight"/>
+    </td>
+    <td width="50%" align="center">
+      <img width="100%" src="https://streak-stats.demolab.com?user=Krajput2027784&theme=tokyonight&hide_border=true&background=0d1117&ring=818cf8&fire=f472b6&currStreakLabel=818cf8">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img width="100%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Krajput2027784&layout=compact&theme=tokyonight""/>
+    </td>
+    <td width="50%" align="center">
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Krajput2027784&theme=tokyo-night&bg_color=0d1117&color=818cf8&line=6366f1&point=a5b4fc&hide_border=true"/>
+    </td>
+  </tr>
 </table>
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
+
+
 <!-- ## 📌 Featured Projects
 
 > _(Replace with your real project links.)_
