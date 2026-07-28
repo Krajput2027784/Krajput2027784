@@ -92,11 +92,8 @@
 <table>
 <tr>
 <td width="50%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Krajput2027784&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-</td>
-
+ <img width="100%" src="https://stats-github-readme.vercel.app/api?username=Krajput2027784&show_icons=true&theme=tokyonight"/>
+</td>    
 <td width="50%" align="center">
 
 <img src="https://streak-stats.demolab.com?user=Krajput2027784&theme=tokyonight&hide_border=true"/>
