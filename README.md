@@ -102,7 +102,7 @@
 </tr>
   <tr>
   <td width="50%" align="center">
-    <img width="100%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=KhushiTanwar1720&layout=compact&theme=tokyonight""/>
+    <img width="100%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Krajput2027784&layout=compact&theme=tokyonight""/>
 </td> 
 <td width="50%" align="center">
 
