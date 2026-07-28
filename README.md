@@ -82,16 +82,23 @@
 ![Chrome](https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 ## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&count_private=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Krajput2027784&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
+<img height="180em" src="https://streak-stats.demolab.com?user=Krajput2027784&theme=tokyonight&hide_border=true"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krajput2027784&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
+</div>
 
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Krajput2027784&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF"/>
+
+</div>
 <!-- ## 📌 Featured Projects
 
 > _(Replace with your real project links.)_
