@@ -47,8 +47,6 @@
 
 ## 🧑‍💻 About Me
 
-> ## 🧑‍💻 About Me
-
 > "Passionate about learning, building, and solving real-world problems through code."
 
 - 🎓 Pursuing **B.Tech in Computer Science**
@@ -62,42 +60,32 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack (Backend Developer)
 
-<div align="center">
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### 💻 Languages
-[![Languages](https://skillicons.dev/icons?i=python,html,css,c,cpp)](https://skillicons.dev)
+## 📚 Currently Learning
 
-<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-### 🌱 Currently Learning
-[![Learning](https://skillicons.dev/icons?i=java,html)](https://skillicons.dev)
+**Tools I'm using while learning:**
 
-<br>
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Chrome](https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 
-### 🧰 Tools & Technologies
-[![Tools](https://skillicons.dev/icons?i=vscode,git,github,mysql,linux)](https://skillicons.dev)
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
-### 💻 Languages
-[![Languages](https://skillicons.dev/icons?i=python,html,css,c,cpp)](https://skillicons.dev)
-
-<br>
-
-### 🌱 Currently Learning
-[![Learning](https://skillicons.dev/icons?i=java,html)](https://skillicons.dev)
-
-<br>
-
-### 🧰 Tools & Technologies
-[![Tools](https://skillicons.dev/icons?i=vscode,git,github,mysql,linux)](https://skillicons.dev)
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
 ## 📊 GitHub Analytics
 
 <div align="center">
