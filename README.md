@@ -89,29 +89,38 @@
 
 <div align="center">
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-      </td>
-     </tr>
-     <tr> 
-     <td width="50%" align="center"> 
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krajput2027784&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8"/> 
-  </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <img width="100%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Krajput2027784&layout=compact&theme=tokyonight""/>
-    </td>
-    <td width="50%" align="center">
-      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Krajput2027784&theme=tokyo-night&bg_color=0d1117&color=818cf8&line=6366f1&point=a5b4fc&hide_border=true"/>
-    </td>
-  </tr>
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Krajput2027784&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+</td>
+
+<td width="50%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Krajput2027784&theme=tokyonight&hide_border=true"/>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krajput2027784&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</td>
+
+<td width="50%">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Krajput2027784&theme=tokyo-night&hide_border=true"/>
+
+</td>
+</tr>
+
 </table>
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
-
 
 <!-- ## 📌 Featured Projects
 
