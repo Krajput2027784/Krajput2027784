@@ -91,27 +91,27 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Krajput2027784&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Krajput2027784&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 </td>
 
-<td width="50%">
+<td width="50%" align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Krajput2027784&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Krajput2027784&theme=tokyonight&hide_border=true"/>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krajput2027784&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </td>
 
-<td width="50%">
+<td width="50%" align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krajput2027784&theme=tokyo-night&hide_border=true"/>
 
@@ -121,7 +121,6 @@
 </table>
 
 </div>
-
 <!-- ## 📌 Featured Projects
 
 > _(Replace with your real project links.)_
