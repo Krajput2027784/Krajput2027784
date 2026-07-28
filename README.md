@@ -91,12 +91,12 @@
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="50%" align="center">
-      <img width="100%" src="https://stats-github-readme.vercel.app/api?username=Krajput2027784&show_icons=true&theme=tokyonight"/>
-    </td>
-    <td width="50%" align="center">
-      <img width="100%" src="https://streak-stats.demolab.com?user=Krajput2027784&theme=tokyonight&hide_border=true&background=0d1117&ring=818cf8&fire=f472b6&currStreakLabel=818cf8">
-    </td>
+      </td>
+     </tr>
+     <tr> 
+     <td width="50%" align="center"> 
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krajput2027784&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8"/> 
+  </td>
   </tr>
   <tr>
     <td width="50%" align="center">
