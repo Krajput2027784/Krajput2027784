@@ -1,12 +1,12 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Khushi%20Rajput&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Python%20Enthusiast%20%7C%20B.Tech%20CSE%20%40%20BIT%20Merrut&descSize=16&descAlignY=55&descColor=a5b4fc"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Khushi%20Rajput&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Python%20Enthusiast%20%7C%20BFull%20Stack%20Developer%20%7C%20B.Tech%20CSE%20%40%20BIT%20Merrut&descSize=16&descAlignY=55&descColor=a5b4fc"/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=818CF8&center=true&vCenter=true&random=false&width=600&lines=Python+Enthusiast;Learning+by+Building;Exploring+AI+%26+Development." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=818CF8&center=true&vCenter=true&random=false&width=600&lines=Python+Enthusiast;Full+Stack+Developer;Learning+by+Building;Exploring+AI+%26+Development." alt="Typing SVG" />
 
 </a>
 
@@ -53,7 +53,7 @@
 - 🐍 Learning and building projects with **Python**
 - 💻 Interested in **Backend Development** and Software Engineering
 - 🌱 Currently learning **Java**, **HTML**, **Data Structures & Algorithms**, **Databases**, and **Web Development**
-- 🛠️ Familiar with **Python, HTML, CSS, C, C++, MySQL, Git, and GitHub**
+- 🛠️ Familiar with **Python, HTML, CSS, C, MySQL, Git, and GitHub**
 - 🚀 Working on improving problem-solving and coding skills
 - 📚 Open to **internships**, **learning opportunities**, and **collaborative projects**
 - 🎯 Goal: Become a skilled **Backend Developer**
@@ -67,7 +67,7 @@
 
 ### 🚀 Languages
 
-<img src="https://skillicons.dev/icons?i=python,html,css,c,cpp&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,html,css,c"/>
 
 <br><br>
 
@@ -132,7 +132,7 @@
 
 I'm always open to interesting conversations, collaboration, and new opportunities.
 
-**Reach me at:** [Krajput2027784.rajpootkhushi980@gmail.com](mailto:khushitanwar.kr3218072@gmail.com) · [LinkedIn](https://www.linkedin.com/in/khushi-tanwar-1720/) 
+**Reach me at:** [Krajput2027784.rajpootkhushi980@gmail.com](mailto:Khushirajput.rajpootkhushi980@gmail.com) · [LinkedIn](https://www.linkedin.com/in/khushi-rajput-cse/) 
 
 <br/>
 
